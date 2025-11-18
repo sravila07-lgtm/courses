@@ -1,0 +1,2 @@
+﻿  make: *** No targets specified and no makefile found.  Stop.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(47,5): error MSB3073: El comando "make" salió con el código 2.

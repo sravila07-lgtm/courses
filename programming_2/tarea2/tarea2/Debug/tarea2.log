@@ -1,0 +1,17 @@
+﻿  cadena.cpp
+  info.cpp
+C:\Users\Santiago.000\Desktop\prog\t2\tarea2\src\info.cpp(49,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Santiago.000\Desktop\prog\t2\tarea2\src\info.cpp(51,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Santiago.000\Desktop\prog\t2\tarea2\src\info.cpp(54,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Santiago.000\Desktop\prog\t2\tarea2\src\info.cpp(55,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Santiago.000\Desktop\prog\t2\tarea2\src\info.cpp(56,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Santiago.000\Desktop\prog\t2\tarea2\src\info.cpp(57,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Santiago.000\Desktop\prog\t2\tarea2\src\info.cpp(58,3): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  usoTads.cpp
+  utils.cpp
+C:\Users\Santiago.000\Desktop\prog\t2\tarea2\src\utils.cpp(13,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Santiago.000\Desktop\prog\t2\tarea2\src\utils.cpp(19,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Santiago.000\Desktop\prog\t2\tarea2\src\utils.cpp(25,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Santiago.000\Desktop\prog\t2\tarea2\src\utils.cpp(29,35): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Santiago.000\Desktop\prog\t2\tarea2\src\utils.cpp(31,40): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generando código...
